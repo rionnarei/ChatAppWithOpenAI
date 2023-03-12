@@ -1,2 +1,2 @@
 # chat-app
-Build a Chat App with ChatGPT
+It is a Chat App with ChatGPT OpenAI Integration
